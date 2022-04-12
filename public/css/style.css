@@ -1,0 +1,75 @@
+.w-380px {
+    width: 380px !important;
+}
+
+#row_to_copy.row3 {
+    background: blue;
+}
+
+.wrapper_card {
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 0.5px solid #e9e2e2;
+    height: 200px;
+}
+
+.product_card {
+    padding: 20px;
+}
+
+.product_card img {
+    border-radius: 3px;
+    width: 100%;
+    height: 160px;
+}
+
+.btn_order_online {
+    padding: 5px 15px;
+    border-radius: 3px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #621b1b;
+    position: absolute;
+    bottom: 0px;
+}
+
+.btn_order_online i {
+    font-size: 20px;
+    font-weight: 600;
+    color: #621b1b;
+}
+
+.price_tag {
+    font-size: 15px;
+    font-weight: 800;
+    color: #009877;
+    padding-top: 11px;
+}
+
+.timestamp {
+    position: absolute;
+    right: 15px;
+    bottom: -10px;
+    color: #707676;
+    text-align: right;
+    margin-top: auto;
+    line-height: 20px;
+}
+
+.btn_add_more {
+    background-color: green;
+    border: none;
+    height: 30px;
+    width: 30px;
+    float: left;
+    margin-right: 10px;
+}
+
+.Timestamp-BG {
+    color: #4b49ac;
+    width: 185px;
+    height: 28px;
+    margin-top: 6px;
+    font-size: 13px;
+    padding-top: 6px;
+}
